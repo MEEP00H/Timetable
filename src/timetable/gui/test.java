@@ -20,6 +20,7 @@ public class test {
         if(list!=null){
             Subject s = new Subject();
             System.out.println(s);
+            System.out.println("aaaß");
         }
     }
 }
